@@ -49,7 +49,7 @@ Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
 
 
 # 🎖 Honors and Awards
-- *2025.06* Best paper (selected), MCTSDE: a novel sensorless strategy for efficient and cost-effective health assessment of roller chain systems, 2025, Brugges, Belgium.
+- *2025.06* Best paper candidate (ranked top 3), MCTSDE: a novel sensorless strategy for efficient and cost-effective health assessment of roller chain systems, 2025, Brugges, Belgium.
 - *2020.09* Best paper award, Comparison of Blind Diagnostic Indicators for Condition Monitoring of Wind Turbine Gearbox Bearings, 2020, Virtual, Online.
 - *2018.08* Best paper award, Vibration based condition monitoring of planetary gearboxes operating under speed varying operating conditions based on cyclo-non-stationary analysis, International Conference on Rotor Dynamics, 2018, Santander, Spain. 
 
