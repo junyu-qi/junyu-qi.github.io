@@ -19,29 +19,28 @@ redirect_from:
 
 I am currently a Research Associate at the Reutlingen Research Institute (RRI) in Germany. My research specialization lies in data analytics and deep learning-based condition monitoring of complex electromechanical systems, with a primary focus on fault detection, diagnosis, and prognosis, I have authored over 50 publications in leading international journals and conferences, including Mechanical Systems and Signal Processing (MSSP), Reliability Engineering & System Safety (RESS), IEEE Transactions on Instrumentation and Measurement (TIM), and the World Congress on Condition Monitoring (WCCM). This body of work has garnered 470+ citations on Google Scholar and an h-index of 11 (<a href='https://scholar.google.com/citations?user=4D0W50YAAAAJ&hl'><img src="https://img.shields.io/badge/Google_Scholar-470+-4285F4?logo=googlescholar&style=flat-square&labelColor=fff" alt="Google Scholar Badge"></a>).
 
-I actively contribute to the academic community by serving as a reviewer for numerous prestigious journals (e.g., MSSP, RESS, and various IEEE Transactions) and as a Guest Editor for special issues in journals such as Sensors and Computer Modeling in Engineering & Sciences. I have also chaired technical sessions at major international conferences, including the International Conference on Prognostics and Health Management (PHM-Beijing, China, 2024), the International Conference on Equipment Intelligent Operation and Maintenance (ICEIOM2025), and the 15th Prognostics and System Health Management Conference (PHM-Bruges, Belgium, 2025). Additionally, I serve as a guest editor for several special issues in peer-reviewed journals: Computer Modeling in Engineering \& Sciences (Impact Factor: 2.5), Sensors (Impact Factor: 3.4), and Frontiers in Mechanical Engineering (Impact Factor: 2.0).
+I actively contribute to the academic community by serving as a reviewer for numerous prestigious journals (e.g., MSSP, RESS, and various IEEE Transactions) and as a Guest Editor for special issues in journals such as Sensors and Computer Modeling in Engineering & Sciences. I have also chaired technical sessions at major international conferences, including the International Conference on Prognostics and Health Management (PHM-Beijing, China, 2024), the International Conference on Equipment Intelligent Operation and Maintenance (ICEIOM2025), and the 15th Prognostics and System Health Management Conference (PHM-Bruges, Belgium, 2025). Additionally, I serve as a guest editor for several special issues in peer-reviewed journals: Computer Modeling in Engineering & Sciences (Impact Factor: 2.5), Sensors (Impact Factor: 3.4), and Frontiers in Mechanical Engineering (Impact Factor: 2.0).
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 Junyu Qi will join Karlsruhe Institute of Technology (KIT) since Janurary 2026. 
 - *2025.12*: &nbsp;🎉🎉 Junyu Qi is invited to organized a special session at the WCCM 2026 conference (https://www.aimnet.it/wccm2026/). 
 
 # 📝 Publications 
-
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <!-- 新增的“标签容器” -->
-    <div class="journal-label-row">
-      <span class="badge badge-journal">JCR: Q1</span>
-      <span class="badge badge-if">IF: 8.4</span>
-      <span class="journal-name">Advanced Engineering Informatics</span>
+    <div>
+      <!-- 根据论文类型显示不同徽章 -->
+      <div class="badge badge-journal">JCR: Q1</div>
+      <div class="badge badge-if">IF: 8.4</div>
+      <div class="journal-name">Advanced Engineering Informatics</div>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    <!-- 论文内容保持不变 -->
-    **[Physics modeling-driven interpretable data augmentation method for bearing fault diagnosis under imbalanced data](https://www.sciencedirect.com/science/article/pii/S1474034625010821)**
 
-Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
-*Advanced Engineering Informatics*, 2024, Vol. 62, 102407
+  **[Physics-driven interpretable data augmentation for bearing fault diagnosis under data imbalance](https://www.sciencedirect.com/science/article/pii/S1474034625010821)**
+
+  Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
+  *Advanced Engineering Informatics*, 2024, Vol. 62, 102407
 
   </div>
 </div>
