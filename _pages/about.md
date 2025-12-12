@@ -21,11 +21,11 @@ I am currently a Research Associate at the Reutlingen Research Institute (RRI) i
 
 My research has resulted in over 50 publications in leading international journals and conferences, including Mechanical Systems and Signal Processing (MSSP), Reliability Engineering & System Safety (RESS), IEEE Transactions on Instrumentation and Measurement (TIM), and the World Congress on Condition Monitoring (WCCM). This body of work has garnered 470+ Google Scholar citations and an h-index of 11 (<a href='https://scholar.google.com/citations?user=4D0W50YAAAAJ&hl'><img src="https://img.shields.io/badge/Google_Scholar-470+-4285F4?logo=googlescholar&style=flat-square&labelColor=fff" alt="Google Scholar Badge"></a>).
 
-In recognition of my contributions, I have been honored with Best Paper Awards from the American Society of Mechanical Engineers (ASME) in 2018 and the International Federation for the Promotion of Mechanism and Machine Science (IFToMM) in 2020. I actively contribute to the academic community by serving as a reviewer for numerous prestigious journals (e.g., MSSP, RESS, and various IEEE Transactions) and as a Guest Editor for special issues in journals such as Sensors and Computer Modeling in Engineering & Sciences. I have also chaired technical sessions at major international conferences, including the International Conference on Prognostics and Health Management (PHM) and the Prognostics and System Health Management Conference (PHM).
+In recognition of my contributions, I have been honored with Best Paper Awards from the American Society of Mechanical Engineers (ASME) in 2018 and the International Federation for the Promotion of Mechanism and Machine Science (IFToMM) in 2020. I actively contribute to the academic community by serving as a reviewer for numerous prestigious journals (e.g., MSSP, RESS, and various IEEE Transactions) and as a Guest Editor for special issues in journals such as Sensors and Computer Modeling in Engineering & Sciences. I have also chaired technical sessions at major international conferences, including the International Conference on Prognostics and Health Management (PHM-Beijing, China, 2024), the International Conference on Equipment Intelligent Operation and Maintenance (ICEIOM2025), and the 15th Prognostics and System Health Management Conference (PHM-Bruges, Belgium, 2025).
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 Junyu Qi will join Karlsruhe Institute of Technology (KIT) since Janurary 2026. 
-- *2022.12*: &nbsp;🎉🎉 Junyu Qi is invited to organized a special session at the WCCM 2026 conference (https://www.aimnet.it/wccm2026/). 
+- *2025.12*: &nbsp;🎉🎉 Junyu Qi is invited to organized a special session at the WCCM 2026 conference (https://www.aimnet.it/wccm2026/). 
 
 # 📝 Publications 
 
@@ -56,7 +56,7 @@ Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
 - *2018.08* Best paper award, Vibration based condition monitoring of planetary gearboxes operating under speed varying operating conditions based on cyclo-non-stationary analysis, International Conference on Rotor Dynamics, 2018, Santander, Spain. 
 
 # 📖 Educations
-- *2017.01 - 2024.02 (now)*, Mechanical Engineering, KU Leuven, Leuven, Belgium. 
+- *2017.01 - 2024.02*, Mechanical Engineering, KU Leuven, Leuven, Belgium. 
 - *2013.10 - 2016.11*, Mechtronics, Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, Germany.
 - *2013.01 - 2013.03*, German language course, University of Duisburg-Essen, Essen, Germany.
 - *2008.09 - 2012.06*, Mechtronics (Port machinery), Shanghai Maritime University, Shanghai, China. 
@@ -65,5 +65,5 @@ Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
 - *2025.11*, Robust health assessment of chain systems based on a sensorless strategy and transfer learning technique, The 2nd China Europe Scientists Forum - CESF 2025, Heidelberg, Germany.
 
 # 💻 Experiences
-- *2023.12 - 2025.12*, Reutlingen Research Institute, Reutlingen, Germany.
+- *2023.12 - 2025.12 (now)*, Reutlingen Research Institute, Reutlingen, Germany.
 - *2015.10 - 2016.11*, Bosch Rexroth, Lohr am Main, Germany.
