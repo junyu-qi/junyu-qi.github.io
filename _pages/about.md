@@ -29,8 +29,16 @@ In recognition of my contributions, I have been honored with Best Paper Awards f
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- 根据论文类型显示不同徽章 -->
+      <div class="badge badge-journal">JCR Q1</div>
+      <div class="badge badge-if">IF: 8.4</div>
+      <img src='images/mssp_paper_cover.png' alt="Bearing fault diagnosis" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [Physics modeling-driven interpretable data augmentation method for bearing fault diagnosis under imbalanced data](https://www.sciencedirect.com/science/article/pii/S1474034625010821)
 
@@ -41,7 +49,6 @@ Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2025.06* Best paper (selected), MCTSDE: a novel sensorless strategy for efficient and cost-effective health assessment of roller chain systems, 2025, Brugges, Belgium.
