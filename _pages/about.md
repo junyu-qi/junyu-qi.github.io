@@ -34,7 +34,7 @@ I actively contribute to the academic community by serving as a reviewer for num
       <span class="badge badge-if">IF: 8.4</span>
       <span class="journal-name">Advanced Engineering Informatics</span>
     </div>
-    <img src='images/AEI.jpg' alt="Advanced Engineering Informatics" width="100%" onerror="this.style.display='none'">
+    <img src='images/AEI.jpg' alt="Advanced Engineering Informatics" width="30px" height="30px">
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -48,9 +48,6 @@ Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4D0W50YAAAAJ&citation_for_view=4D0W50YAAAAJ:hqOjcs7Dif8C) <strong><span class='show_paper_citations' data='4D0W50YAAAAJ:hqOjcs7Dif8C'></span></strong>
 - The industrial project of wear monitoring and anomaly detection of roller chains system is closed. 
-</div>
-</div>
-
 
 # 🎖 Honors and Awards
 - *2025.06* Best paper candidate (ranked top 3), MCTSDE: a novel sensorless strategy for efficient and cost-effective health assessment of roller chain systems, 2025, Brugges, Belgium.
