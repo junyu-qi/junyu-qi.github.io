@@ -31,9 +31,7 @@ In recognition of my contributions, I have been honored with Best Paper Awards f
   <div class='paper-box-image'>
     <div>
       <!-- 根据论文类型显示不同徽章 -->
-      <div class="badge badge-journal">JCR Q1</div>
-      <div class="badge badge-if">IF: 8.4</div>
-      <img src='images/AEI.jpg' alt="Advanced Engineering Informatics" width="100%">
+      <div class="badge badge-journal">JCR Q1</div> <div class="badge badge-if">IF: 8.4</div> <img src='images/AEI.jpg' alt="Advanced Engineering Informatics" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
