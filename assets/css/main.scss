@@ -133,13 +133,16 @@ h1:before, .anchor:before {
 
 /* 学位徽章样式 */
 .badge-degree {
-    display: inline-block;
+    position: static !important; /* 关键：强制覆盖绝对定位 */
+    display: inline-block !important; /* 确保它作为行内块元素 */
+    margin-top: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0.5em !important; /* 只在右侧添加间距，避免重叠 */
     padding: 0.2em 0.6em;
-    margin-right: 0.5em;
     font-size: 0.75em;
     font-weight: bold;
     color: white;
-    background-color: #6f42c1; /* 紫色，用于区分学术学位 */
+    background-color: #6f42c1; /* 紫色 */
     border-radius: 4px;
-    vertical-align: middle;
+    vertical-align: text-top; /* 微调垂直对齐方式 */
 }
