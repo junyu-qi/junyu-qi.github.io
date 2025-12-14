@@ -31,8 +31,8 @@ I actively contribute to the academic community by serving as a reviewer for num
     <div>
       <!-- 根据论文类型显示不同徽章 -->
       <div class="badge badge-journal">JCR: Q1</div>
-      <div class="badge badge-if">IF: 8.4</div>
-      <div class="Badge badge-journal-name">Advanced Engineering Informatics</div>
+      <div class="badge badge-if">IF: 9.9</div>
+      <div class="badge badge-journal-name">Advanced Engineering Informatics</div>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -42,16 +42,38 @@ I actively contribute to the academic community by serving as a reviewer for num
   Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
   *Advanced Engineering Informatics*, 2024, Vol. 62, 102407
 
-**[Physics-driven interpretable data augmentation for bearing fault diagnosis under data imbalance](https://www.sciencedirect.com/science/article/pii/S1474034625010821)**
+  </div>
+</div>
 
-  Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
-  *Advanced Engineering Informatics*, 2024, Vol. 62, 102407
+<!-- 论文 2 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge badge-journal">JCR: Q1</div>
+      <div class="badge badge-if">IF: 9.9</div>
+      <div class="badge badge-journal-name">Advanced Engineering Informatics</div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **[A contrastive cluster zero-shot model for cross-type fault diagnosis of bearings](https://www.sciencedirect.com/science/article/abs/pii/S1474034625007785)**
+  Lv Wang, **Junyu Qi**, Yi Qin
+  *Advanced Engineering Informatics*, 2026, Vol. 69, 103885
+  </div>
+</div>
 
-**[Physics-driven interpretable data augmentation for bearing fault diagnosis under data imbalance](https://www.sciencedirect.com/science/article/pii/S1474034625010821)**
-
-  Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
-  *Advanced Engineering Informatics*, 2024, Vol. 62, 102407
-
+<!-- 论文 3 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge badge-journal">JCR: Q1</div>
+      <div class="badge badge-if">IF: 15.5</div>
+      <div class="badge badge-journal-name">Information Fusion</div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **[Hierarchical subgraph neural network with information bottleneck for machine remaining useful life prediction](https://www.sciencedirect.com/science/article/abs/pii/S1474034625007785)**
+  Linjie Zheng, **Junyu Qi**, Dengyu Xiao, Yi Qin
+  *Information Fusion*, 2025, 103953
   </div>
 </div>
 
