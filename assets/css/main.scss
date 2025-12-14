@@ -139,24 +139,32 @@ h1:before, .anchor:before {
 }
 
 #educations .education-list li {
-  margin-bottom: 1.2em; /* 增加条目之间的间距 */
+  margin-bottom: 1.5em; /* 增加条目之间的间距 */
+  padding: 0.5em 0; /* 增加内边距，提升可读性 */
+  position: relative;
 }
 
-/* 优化学位徽章样式，移除可能冲突的边距 */
+/* 优化学位徽章样式 */
 #educations .badge-degree {
-    position: relative !important; /* 将static改为relative，通常更安全 */
-    display: inline-block !important;
-    /* 移除所有 !important 的margin，用下面的新规则控制 */
-    padding: 0.2em 0.6em;
-    font-size: 0.75em;
-    font-weight: bold;
-    color: white;
-    background-color: #6f42c1;
-    border-radius: 4px;
-    vertical-align: baseline; /* 改为基线对齐 */
-    /* 为徽章添加一个固定的右边距 */
-    margin-right: 0.5em !important;
-    /* 确保它不会被挤出容器 */
-    overflow: visible;
-    white-space: nowrap;
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  font-size: 0.75em;
+  font-weight: bold;
+  color: white;
+  background-color: #6f42c1;
+  border-radius: 4px;
+  margin-right: 0.5em;
+  vertical-align: middle; /* 垂直居中对齐文字 */
+}
+
+/* 确保专业名称和时间地点行正确换行和分隔 */
+#educations .education-list li strong {
+  display: inline-block;
+  margin-bottom: 0.3em; /* 专业名称与时间地点之间增加间距 */
+}
+
+#educations .education-list li em {
+  color: #666; /* 时间地点文字稍浅，区分层次 */
+  font-style: italic;
+  display: block; /* 强制时间地点独占一行，避免与专业名称重叠 */
 }
