@@ -132,39 +132,54 @@ h1:before, .anchor:before {
 }
 
 
-/* 清除列表默认样式并应用新样式 */
-#educations .education-list {
-  list-style: none;
+/* 教育列表容器 */
+.education-list {
   padding-left: 0;
+  margin: 0;
 }
 
-#educations .education-list li {
-  margin-bottom: 1.5em; /* 增加条目之间的间距 */
-  padding: 0.5em 0; /* 增加内边距，提升可读性 */
+/* 每个教育条目独立成块 */
+.education-item {
+  margin-bottom: 1.8em; /* 条目间距离足够大 */
+  padding: 0.5em 0;
   position: relative;
+  min-height: 50px; /* 确保有足够高度容纳内容 */
 }
 
-/* 优化学位徽章样式 */
-#educations .badge-degree {
-  display: inline-block;
+/* 学位+专业信息行 */
+.degree-info {
+  display: flex; /* 弹性布局避免文字重叠 */
+  align-items: center; /* 垂直居中 */
+  gap: 0.5em; /* 徽章与专业名称之间的间隙 */
+  margin-bottom: 0.4em; /* 与下方机构信息保持距离 */
+  flex-wrap: wrap; /* 长专业名自动换行 */
+}
+
+/* 机构+时间信息行（强制独立一行） */
+.institution-info {
+  display: block;
+  color: #555;
+  line-height: 1.4; /* 增加行高避免文字拥挤 */
+}
+
+/* 学位徽章样式 */
+.badge-degree {
   padding: 0.2em 0.6em;
   font-size: 0.75em;
   font-weight: bold;
   color: white;
   background-color: #6f42c1;
   border-radius: 4px;
-  margin-right: 0.5em;
-  vertical-align: middle; /* 垂直居中对齐文字 */
+  white-space: nowrap; /* 徽章文字不换行 */
 }
 
-/* 确保专业名称和时间地点行正确换行和分隔 */
-#educations .education-list li strong {
-  display: inline-block;
-  margin-bottom: 0.3em; /* 专业名称与时间地点之间增加间距 */
+/* 专业名称样式 */
+.major {
+  font-weight: bold;
 }
 
-#educations .education-list li em {
-  color: #666; /* 时间地点文字稍浅，区分层次 */
+/* 时间文本样式 */
+.institution-info em {
   font-style: italic;
-  display: block; /* 强制时间地点独占一行，避免与专业名称重叠 */
+  color: #666;
 }
