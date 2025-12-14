@@ -146,6 +146,7 @@ h1:before, .anchor:before {
 
 /* 优化学位徽章样式 */
 #educations .badge-degree {
+  box-sizing: border-box !important;
   display: inline-block;
   padding: 0.2em 0.2em;
   font-size: 0.75em;
