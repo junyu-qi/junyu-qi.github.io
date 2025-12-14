@@ -32,7 +32,7 @@ I actively contribute to the academic community by serving as a reviewer for num
       <!-- 根据论文类型显示不同徽章 -->
       <div class="badge badge-journal">JCR: Q1</div>
       <div class="badge badge-if">IF: 8.4</div>
-      <div class="journal-name">Advanced Engineering Informatics</div>
+      <div class="Badge badge-journal-name">Advanced Engineering Informatics</div>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
