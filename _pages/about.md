@@ -86,14 +86,46 @@ I actively contribute to the academic community by serving as a reviewer for num
 - *2018.08* Best paper award, Vibration based condition monitoring of planetary gearboxes operating under speed varying operating conditions based on cyclo-non-stationary analysis, International Conference on Rotor Dynamics, 2018, Santander, Spain. 
 
 # 📖 Educations
-- **<span class="badge badge-degree">PhD</span> Mechanical Engineering**  
-  *2017.01 - 2024.02*, KU Leuven, Leuven, Belgium.
-- **<span class="badge badge-degree">M.Sc.</span> Mechatronics**  
-  *2013.10 - 2016.11*, Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, Germany.
-- **<span class="badge badge-degree">B.Eng.</span> Mechatronics (Port machinery)**  
-  *2008.09 - 2012.06*, Shanghai Maritime University, Shanghai, China.
-- **German Language Course**  
-  *2013.01 - 2013.03*, University of Duisburg-Essen, Essen, Germany.
+<div class="education-list">
+  <div class="education-item">
+    <div class="degree-info">
+      <span class="badge badge-degree">PhD</span>
+      <span class="major">Mechanical Engineering</span>
+    </div>
+    <div class="institution-info">
+      <em>2017.01 - 2024.02</em>, KU Leuven, Leuven, Belgium.
+    </div>
+  </div>
+
+  <div class="education-item">
+    <div class="degree-info">
+      <span class="badge badge-degree">M.Sc.</span>
+      <span class="major">Mechatronics</span>
+    </div>
+    <div class="institution-info">
+      <em>2013.10 - 2016.11</em>, Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, Germany.
+    </div>
+  </div>
+
+  <div class="education-item">
+    <div class="degree-info">
+      <span class="badge badge-degree">B.Eng.</span>
+      <span class="major">Mechatronics (Port machinery)</span>
+    </div>
+    <div class="institution-info">
+      <em>2008.09 - 2012.06</em>, Shanghai Maritime University, Shanghai, China.
+    </div>
+  </div>
+
+  <div class="education-item">
+    <div class="degree-info">
+      <span class="major">German Language Course</span>
+    </div>
+    <div class="institution-info">
+      <em>2013.01 - 2013.03</em>, University of Duisburg-Essen, Essen, Germany.
+    </div>
+  </div>
+</div>
 
 
 # 💬 Invited Talks
