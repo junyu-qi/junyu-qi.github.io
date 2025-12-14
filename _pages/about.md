@@ -92,11 +92,12 @@ I actively contribute to the academic community by serving as a reviewer for num
 - **<span class="badge badge-degree">M.Sc.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mechatronics**  
   *2013.10 - 2016.11*, Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, Germany.
 
+- **German Language Course**  
+  *2013.01 - 2013.03*, University of Duisburg-Essen, Essen, Germany.
+
 - **<span class="badge badge-degree">B.Sc.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mechatronics (Port machinery)**  
   *2008.09 - 2012.06*, Shanghai Maritime University, Shanghai, China.
 
-- **German Language Course**  
-  *2013.01 - 2013.03*, University of Duisburg-Essen, Essen, Germany.
 
 
 # 💬 Invited Talks
