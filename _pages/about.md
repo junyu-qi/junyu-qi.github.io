@@ -89,10 +89,10 @@ I actively contribute to the academic community by serving as a reviewer for num
 - **<span class="badge badge-degree">PhD</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mechanical Engineering**  
   *2017.01 - 2024.02*, KU Leuven, Leuven, Belgium.
 
-- **<span class="badge badge-degree">M.Sc.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mechatronics**  
+- **<span class="badge badge-degree">M.Sc.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mechatronics**  
   *2013.10 - 2016.11*, Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, Germany.
 
-- **<span class="badge badge-degree">B.Eng.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mechatronics (Port machinery)**  
+- **<span class="badge badge-degree">B.Eng.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mechatronics (Port machinery)**  
   *2008.09 - 2012.06*, Shanghai Maritime University, Shanghai, China.
 
 - **German Language Course**  
