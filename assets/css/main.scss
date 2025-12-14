@@ -147,14 +147,14 @@ h1:before, .anchor:before {
 /* 优化学位徽章样式 */
 #educations .badge-degree {
   display: inline-block;
-  padding: 0.2em 0.6em;
+  padding: 0.2em 0.2em;
   font-size: 0.75em;
   font-weight: bold;
   color: white;
   background-color: #6f42c1;
   border-radius: 4px;
-  width: 60px; /* 根据最长的徽章（如 B.Eng.）设置足够宽度 */
-  margin-right: 45px;
+  width: 50px; /* 根据最长的徽章（如 B.Eng.）设置足够宽度 */
+  margin-right: 100px;
   vertical-align: middle; /* 垂直居中对齐文字 */
   text-align: center; /* 徽章内文字居中 */
 }
