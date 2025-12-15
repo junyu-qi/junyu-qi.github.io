@@ -22,8 +22,8 @@ I am currently a Research Associate at the Reutlingen Research Institute (RRI) i
 I actively contribute to the academic community by serving as a reviewer for numerous prestigious journals (e.g., MSSP, RESS, and various IEEE Transactions) and as a Guest Editor for special issues in journals such as Sensors and Computer Modeling in Engineering & Sciences. I have also chaired technical sessions at major international conferences, including the International Conference on Prognostics and Health Management (PHM-Beijing, China, 2024), the International Conference on Equipment Intelligent Operation and Maintenance (ICEIOM2025), and the 15th Prognostics and System Health Management Conference (PHM-Bruges, Belgium, 2025). Additionally, I serve as a guest editor for several special issues in peer-reviewed journals: Computer Modeling in Engineering & Sciences (Impact Factor: 2.5), Sensors (Impact Factor: 3.4), and Frontiers in Mechanical Engineering (Impact Factor: 2.0).
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Junyu Qi will join Karlsruhe Institute of Technology (KIT) since Janurary 2026. 
-- *2025.12*: &nbsp;🎉🎉 Junyu Qi is invited to organized a special session at the WCCM 2026 conference (https://www.aimnet.it/wccm2026/). 
+- *2025.12*: &nbsp;🎉🎉 Junyu Qi will join KIT since Janurary 2026. 
+- *2025.12*: &nbsp;🎉🎉 Junyu Qi is invited to Organize a special session at the WCCM 2026 conference (https://www.aimnet.it/wccm2026/).
 
 # 📝 Publications 
 <div class='paper-box'>
@@ -74,6 +74,22 @@ I actively contribute to the academic community by serving as a reviewer for num
   **[Hierarchical subgraph neural network with information bottleneck for machine remaining useful life prediction](https://www.sciencedirect.com/science/article/abs/pii/S1474034625007785)**
   Linjie Zheng, **Junyu Qi**, Dengyu Xiao, Yi Qin
   *Information Fusion*, 2025, 103953
+  </div>
+</div>
+
+<!-- 论文 4 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge badge-journal">JCR: Q2</div>
+      <div class="badge badge-if">IF: 1.6</div>
+      <div class="badge badge-journal-name">Information Fusion</div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **[SSKD: Self-Supervised Knowledge Distillation for reliable remote surface defect detection under wireless transmission attenuation](https://iopscience.iop.org/article/10.1088/2631-8695/ae25ba/meta)**
+  Dong Wu, Peng Chen, Qingsheng Wei, Juxiao Ma, **Junyu Qi**, Chunhua Guo, Renpu Li and Hai Jiang
+  *Engineering Research Express*, 2025, Vol. 7, 045431
   </div>
 </div>
 
