@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Junyu Qi"
-  avatar           : "images/avarar1.jpg"
+  avatar           : "images/avarar-512.png"
   bio              : "Karlsruhe Institute of Technology"
   location         : "Karlsruhe, Germany"
   employer         :
