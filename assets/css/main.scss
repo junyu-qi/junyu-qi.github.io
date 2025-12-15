@@ -171,3 +171,12 @@ h1:before, .anchor:before {
   font-style: italic;
   display: block; /* 强制时间地点独占一行，避免与专业名称重叠 */
 }
+
+/* 将圆形头像改为方形 */
+.avatar,              /* 常见类名1 */
+.author__avatar,      /* 常见类名2 */
+.profile-picture {    /* 常见类名3 */
+    border-radius: 0% !important; /* 关键：将圆角设为0，!important确保覆盖 */
+    /* 可选：添加轻微的圆角，如4px，避免过于生硬 */
+    /* border-radius: 4px !important; */
+}
