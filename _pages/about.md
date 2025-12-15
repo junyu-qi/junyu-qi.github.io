@@ -23,7 +23,7 @@ I actively contribute to the academic community by serving as a reviewer for num
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 Junyu Qi will join KIT since Janurary 2026. 
-- *2025.12*: &nbsp;🎉🎉 Junyu Qi is invited to Organize a special session at the WCCM 2026 conference (https://www.aimnet.it/wccm2026/).
+- *2025.12*: &nbsp;🎉🎉 Junyu Qi is invited to organize a special session at the WCCM 2026 conference (https://www.aimnet.it/wccm2026/).
 
 # 📝 Publications 
 <div class='paper-box'>
@@ -83,7 +83,7 @@ I actively contribute to the academic community by serving as a reviewer for num
     <div>
       <div class="badge badge-journal">JCR: Q2</div>
       <div class="badge badge-if">IF: 1.6</div>
-      <div class="badge badge-journal-name">Information Fusion</div>
+      <div class="badge badge-journal-name">Engineering Research Express</div>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
