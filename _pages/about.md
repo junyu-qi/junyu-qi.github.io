@@ -22,8 +22,8 @@ I am currently a Research Associate at the Reutlingen Research Institute (RRI) i
 I actively contribute to the academic community by serving as a reviewer for numerous prestigious journals (e.g., MSSP, RESS, and various IEEE Transactions) and as a Guest Editor for special issues in journals such as Sensors and Computer Modeling in Engineering & Sciences. I have also chaired technical sessions at major international conferences, including the International Conference on Prognostics and Health Management (PHM-Beijing 2024), the International Conference on Equipment Intelligent Operation and Maintenance (ICEIOM 2025), and the 15th Prognostics and System Health Management Conference (PHM-Bruges 2025). Additionally, I serve as a guest editor for several special issues in peer-reviewed journals: Computer Modeling in Engineering & Sciences (IF: 2.5), Sensors (IF: 3.4), and Frontiers in Mechanical Engineering (IF: 2.0).
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Junyu Qi will join KIT since Janurary 2026. 
-- *2025.12*: &nbsp;🎉🎉 Junyu Qi is organizing a special session at the WCCM 2026 conference (https://www.aimnet.it/wccm2026/).
+- *2025.12*: &nbsp;🎉🎉 I will be joining the KIT in Janurary 2026.
+- *2025.12*: &nbsp;🎉🎉 I have been invited to organize a special session at the World Congress on Condition Monitoring (WCCM 2026) (https://www.aimnet.it/wccm2026/).
 
 # 📝 Publications 
 <div class='paper-box'>
