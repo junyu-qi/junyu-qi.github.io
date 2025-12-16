@@ -104,7 +104,7 @@ I actively contribute to the academic community by serving as a reviewer for num
   </div>
 </div>
 
-<span class='anchor' id='projects'></span>
+<span class='anchor' id='projects1'></span>
 # 🛠️ Projects
 [**Project 1**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4D0W50YAAAAJ&citation_for_view=4D0W50YAAAAJ:ULOm3_A8WrAC) <strong><span class='show_paper_citations' data='4D0W50YAAAAJ:hqOjcs7Dif8C'></span></strong>
 - The industrial project of wear monitoring and anomaly detection of roller chains system.
