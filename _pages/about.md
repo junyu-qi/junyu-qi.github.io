@@ -120,7 +120,9 @@ I actively contribute to the academic community by serving as a reviewer for num
 - *2025.11*, Robust health assessment of chain systems based on a sensorless strategy and transfer learning technique, The 2nd China Europe Scientists Forum - CESF 2025, Heidelberg, Germany.
 
 # 💻 Experiences
-- *2026.01 - now*, Karlsruhe Institute of Technology, Karlsruhe, Germany.
-- *2023.12 - 2025.12*, Reutlingen Research Institute, Reutlingen, Germany.
-- *2021.01 - 2022.12*, KU Leuven, Leuven, Belgium.
-- *2015.10 - 2016.11*, Intern, Bosch Rexroth, Lohr am Main, Germany.
+- *2026.01 - now*, Postdoctoral Researcher, Karlsruhe Institute of Technology, Karlsruhe, Germany.
+- *2023.12 - 2025.12*, Research Associate, Reutlingen Research Institute, Reutlingen, Germany.
+- *2021.01 - 2022.12*, Research Assistant, KU Leuven, Leuven, Belgium.
+- *2015.10 - 2016.11*, Intern and Master Thesis student, Bosch Rexroth, Lohr am Main, Germany.
+- *2015.05 - 2015.09*, Student job, Iles Engineering, Erlangen, Germany.
+- *2014.11 - 2015.03*, Student job, Areva (Framatome GmbH), Erlangen, Germany.
