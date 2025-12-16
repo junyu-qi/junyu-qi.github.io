@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 Biography
+
 I am currently a researcher at the Karlsruhe Institute of Technology (KIT) in Germany. My research specialization lies in data analytics and deep learning-based condition monitoring of complex electromechanical systems, with a primary focus on fault detection, diagnosis, and prognosis, I have authored over 50 publications in leading international journals and conferences, including Mechanical Systems and Signal Processing (MSSP), Reliability Engineering & System Safety (RESS), IEEE Transactions on Instrumentation and Measurement (TIM), and the World Congress on Condition Monitoring (WCCM). This body of work has garnered an h-index of 11 on Google Scholar (<a href='https://scholar.google.com/citations?user=4D0W50YAAAAJ&hl'><img src="https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&style=flat-square&labelColor=fff" alt="Google Scholar Badge"></a>).
 
 I actively contribute to the academic community by serving as a reviewer for numerous prestigious journals (e.g., MSSP, RESS, and various IEEE Transactions) and as a Guest Editor for special issues in journals such as Sensors and Computer Modeling in Engineering & Sciences. I have also chaired technical sessions at major international conferences, including the International Conference on Prognostics and Health Management (PHM-Beijing 2024), the International Conference on Equipment Intelligent Operation and Maintenance (ICEIOM 2025), and the 15th Prognostics and System Health Management Conference (PHM-Bruges 2025). Additionally, I serve as a guest editor for several special issues in peer-reviewed journals: Computer Modeling in Engineering & Sciences (IF: 2.5), Sensors (IF: 3.4), and Frontiers in Mechanical Engineering (IF: 2.0).
@@ -25,7 +27,14 @@ I actively contribute to the academic community by serving as a reviewer for num
 - *2025.12*: &nbsp;🎉🎉 I will be joining the KIT in Janurary 2026.
 - *2025.12*: &nbsp;🎉🎉 I have been invited to organize a special session at the World Congress on Condition Monitoring (WCCM 2026) (https://www.aimnet.it/wccm2026/).
 
-# 📝 Publications 
+# 🔬 Research Interests
+- *Prognostics and Health Management (PHM)* for fault detection, diagnosis, and prognosis
+- *Large Language Model (LLM)/Foundation Model* for zero-shot inference and decision making
+- *Graph Neural Networks*  for system-level Modeling
+- *Transfer Learning* for classification of operating/health Status
+- *Edge AI* for industrial applications
+
+# 📝 Selected Publications
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -93,9 +102,13 @@ I actively contribute to the academic community by serving as a reviewer for num
   </div>
 </div>
 
-# 📚 Projects
+# 🛠️ Projects
 [**Project 1**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4D0W50YAAAAJ&citation_for_view=4D0W50YAAAAJ:ULOm3_A8WrAC) <strong><span class='show_paper_citations' data='4D0W50YAAAAJ:hqOjcs7Dif8C'></span></strong>
-- The industrial project of wear monitoring and anomaly detection of roller chains system. 
+- The industrial project of wear monitoring and anomaly detection of roller chains system.
+
+<!-- 在这里添加一个空行 -->
+<p></p>
+
 [**Project 2**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4D0W50YAAAAJ&citation_for_view=4D0W50YAAAAJ:ULOm3_A8WrAC) <strong><span class='show_paper_citations' data='4D0W50YAAAAJ:hqOjcs7Dif8C'></span></strong>
 - The setup design of industrial SKF bearings, used for anomaly detection, fault diagnosis and pronosis, virtual sensing, etc.
 
