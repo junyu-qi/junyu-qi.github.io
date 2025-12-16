@@ -15,8 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
+<span class='anchor' id='biography'></span>
 # 👋 Biography
 
 I am currently a researcher at the Karlsruhe Institute of Technology (KIT) in Germany. My research specialization lies in data analytics and deep learning-based condition monitoring of complex electromechanical systems, with a primary focus on fault detection, diagnosis, and prognosis, I have authored over 50 publications in leading international journals and conferences, including Mechanical Systems and Signal Processing (MSSP), Reliability Engineering & System Safety (RESS), IEEE Transactions on Instrumentation and Measurement (TIM), and the World Congress on Condition Monitoring (WCCM). This body of work has garnered an h-index of 11 on Google Scholar (<a href='https://scholar.google.com/citations?user=4D0W50YAAAAJ&hl'><img src="https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&style=flat-square&labelColor=fff" alt="Google Scholar Badge"></a>).
