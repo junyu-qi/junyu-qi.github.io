@@ -27,6 +27,8 @@ I actively contribute to the academic community by serving as a reviewer for num
 - *2025.12*: &nbsp;🎉🎉 I will be joining the KIT in Janurary 2026.
 - *2025.12*: &nbsp;🎉🎉 I have been invited to organize a special session at the World Congress on Condition Monitoring (WCCM 2026) (https://www.aimnet.it/wccm2026/).
 
+
+<span class='anchor' id='research-interests'></span>
 # 🔬 Research Interests
 - *Prognostics and Health Management (PHM)* for fault detection, diagnosis, and prognosis
 - *Large Language Model (LLM)/Foundation Model* for zero-shot inference and decision making
@@ -34,6 +36,7 @@ I actively contribute to the academic community by serving as a reviewer for num
 - *Transfer Learning* for classification of operating/health Status
 - *Edge AI* for industrial applications
 
+<span class='anchor' id='selected-publications'></span>
 # 📝 Selected Publications
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -102,6 +105,7 @@ I actively contribute to the academic community by serving as a reviewer for num
   </div>
 </div>
 
+<span class='anchor' id='projects'></span>
 # 🛠️ Projects
 [**Project 1**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4D0W50YAAAAJ&citation_for_view=4D0W50YAAAAJ:ULOm3_A8WrAC) <strong><span class='show_paper_citations' data='4D0W50YAAAAJ:hqOjcs7Dif8C'></span></strong>
 - The industrial project of wear monitoring and anomaly detection of roller chains system.
