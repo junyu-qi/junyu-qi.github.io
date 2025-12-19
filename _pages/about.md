@@ -25,6 +25,10 @@ I actively contribute to the academic community by serving as a reviewer for num
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 I will be joining the KIT in Janurary 2026.
 - *2025.12*: &nbsp;🎉🎉 I have been invited to organize a special session at the World Congress on Condition Monitoring (WCCM 2026) (https://www.aimnet.it/wccm2026/).
+- *2025.12*: &nbsp;🎉🎉 I have been appointed as a Guest Editor for the Special Issue "AI- and Digital Twin-Driven Intelligent Diagnostics and Predictive Maintenance for Transportation Systems" in the journal Applied Sciences. (2025.12-2026.10) (https://www.mdpi.com/journal/applsci/special_issues/Y2168NX59C).
+- *2025.11*: &nbsp;🎉🎉 I have been appointed as a Guest Editor for the Special Issue "Intelligent Sensing, Condition Monitoring, and Maintenance for Complex Industrial Systems" in the journal Sensors. (2025.07-2026.12) (https://www.mdpi.com/journal/sensors/special_issues/7LX63W6G0S).
+- *2025.09*: &nbsp;🎉🎉 I have been appointed as a Guest Editor for the Special Issue "Intelligent Dynamics Modeling, Predictive Operations & Maintenance, and Control Optimization for Complex Systems" in the journal Computer Modeling in Engineering & Sciences. (2025.09-2026.06) (https://www.techscience.com/CMES/special_detail/intelligent_dynamics_modeling).
+- *2024.07*: &nbsp;🎉🎉 I have been appointed as a Guest Editor for the Special Issue "Artificial-Intelligence-Driven Intelligent Fault Prediction and Health Management Techniques in Manufacturing Systems" in the journal Sensors. (2024.07-2025.12) (https://www.mdpi.com/journal/sensors/special_issues/3U1794A700).
 
 
 <span class='anchor' id='research-interests'></span>
